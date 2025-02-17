@@ -16,19 +16,6 @@ A Amazônia Legal é uma área que abrange cerca de 59% do território brasileir
 
 Inscrita na [Lei NB: 12.651, de 25 de maio de 2012](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651.htm), esta lei estabelece normas gerais sobre a proteção da vegetação, áreas de Preservação Permanente e as áreas de Reserva Legal; a exploração florestal, o suprimento de matéria-prima florestal, o controle da origem dos produtos florestais e o controle e prevenção dos incêndios florestais, e prevê instrumentos econômicos e financeiros para o alcance de seus objetivos.
 
-## 
-
-Objetivos das análises
-
--   Crescimento no Número de Solicitações ao Longo dos Anos: Análise do aumento no número de pedidos de extração de madeira ao longo do tempo;
-
--   Volume Anual de Madeira Extraída: Quantificação do volume de madeira explorado em cada ano;
-
--   Análise Anual do Volume de Extração: Análise descritiva dos volumes extraídos anualmente;
-
--   Principais Espécies Exploradas: Identificação das cinco espécies mais extraídas no ano de maior volume de exploração e ao longo do período total;
-
--   Distribuição do Volume de Extração por Estado: Avaliação do volume de madeira extraído em cada estado no ano de maior exploração, no total acumulado e análise do número de solicitações por estado.
 
 # Solicitações {orientation="columns"}
 
@@ -164,7 +151,7 @@ As colunas utilizadas na análise foram:
 
 Os picos no aumento do número de solicitações para a exploração de toras de madeira na Amazônia Legal é observado nos anos de 2019 e 2021, coincidindo com o período de atuação do antigo governo. No entanto, observa-se que algumas solicitações dessa atual gestão apresentam o volume total explorado em uma área e não o volume por árvore, o que pode ter causado a diminuição no número de registros nos anos de 2023 e 2024.
 
-De acordo com a [International Union for Conservation of Nature and Natural Resources](www.iucnredlist.org) (IUCN), a espécie mais explorada no ano de 2021, *Manilkara elata* (Maçaranduba), está listada como em perigo de extinsão, sendo esse um ponto a ser observado em futuras anC!lises envolvendo essa base de dados.
+De acordo com a [International Union for Conservation of Nature and Natural Resources](www.iucnredlist.org) (IUCN), a espécie mais explorada no ano de 2021, *Manilkara elata* (Maçaranduba), está listada como em perigo de extinsão, sendo esse um ponto a ser observado em futuras análises envolvendo essa base de dados.
 
 Este estudo envolveu apenas a análise do produto tipo tora, entretanto, na base de dados original há um número grande de produtos que podem ser analisados em relação aos seus respectivos volumes explorados e o tipo de solicitação que precisa ser realizada para a sua extração. Concluimos então, que a base de dados é muito abrangente, contendo dados até mesmo de localização da árvore explorada, sendo interessante pesquisas futuras tanto no âmbito social quanto ambiental.
 
