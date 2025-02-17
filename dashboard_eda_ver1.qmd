@@ -147,3 +147,24 @@ As colunas utilizadas na análise foram:
 -   Volume explorado: volume explorado por solicitação
 
 -   Data da exploração - Situação: situação da solicitação para a exploração
+
+
+# Considerações {orientation="columns"}
+
+##
+-   Observa-se que o número de solicitações em relação ao ano de 2017 cresceu consideravelmente, assim como o volume de madeira explorado anualmente;
+
+-   A média de volume por solicitação está entre 5 e 6 m³ e a mediana se mantém entre 4 e 4,5 m³;
+
+-   As cinco espécies mais exploradas no ano de 2021 se diferem das cinco espécies mais exploradas no acumulado dos anos, em que a primeira e a segunda mudam de posição e a quinta se diferencia;
+
+-   Rondônia é o estado com maior número de solicitações para a exploração, seguido da Amazônia.
+
+##
+
+Os picos no aumento do número de solicitações para a exploração de toras de madeira na Amazônia Legal é observado nos anos de 2019 e 2021, coincidindo com o período de atuação do antigo governo. No entanto, observa-se que algumas solicitações dessa atual gestão apresentam o volume total explorado em uma área e não o volume por árvore, o que pode ter causado a diminuição no número de registros nos anos de 2023 e 2024.
+
+De acordo com a [International Union for Conservation of Nature and Natural Resources](www.iucnredlist.org) (IUCN), a espécie mais explorada no ano de 2021, *Manilkara elata* (Maçaranduba), está listada como em perigo de extinsão, sendo esse um ponto a ser observado em futuras anC!lises envolvendo essa base de dados.
+
+Este estudo envolveu apenas a análise do produto tipo tora, entretanto, na base de dados original há um número grande de produtos que podem ser analisados em relação aos seus respectivos volumes explorados e o tipo de solicitação que precisa ser realizada para a sua extração. Concluimos então, que a base de dados é muito abrangente, contendo dados até mesmo de localização da árvore explorada, sendo interessante pesquisas futuras tanto no âmbito social quanto ambiental.
+
