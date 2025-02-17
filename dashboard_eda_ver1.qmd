@@ -1,0 +1,149 @@
+---
+title: "Dashboard - Volumes de Madeira Explorados na Amazônia Legal"
+author: "Lara Gualberto"
+format: dashboard
+---
+
+# Home
+
+## 
+
+## 
+
+
+
+A Amazônia Legal é uma área que abrange cerca de 59% do território brasileiro, criada pelo governo federal em 2012 para planejar o desenvolvimento socioeconômico e a preservação ambiental da região amazônica. Esta região inclui nove estados: Acre, Amapá, Amazonas, Goiás, Maranhão, Mato Grosso, Pará, Rondônia, Roraima e Tocantins.
+
+Inscrita na [Lei NB: 12.651, de 25 de maio de 2012](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651.htm), esta lei estabelece normas gerais sobre a proteção da vegetação, áreas de Preservação Permanente e as áreas de Reserva Legal; a exploração florestal, o suprimento de matéria-prima florestal, o controle da origem dos produtos florestais e o controle e prevenção dos incêndios florestais, e prevê instrumentos econômicos e financeiros para o alcance de seus objetivos.
+
+## 
+
+Objetivos das análises
+
+-   Crescimento no Número de Solicitações ao Longo dos Anos: Análise do aumento no número de pedidos de extração de madeira ao longo do tempo;
+
+-   Volume Anual de Madeira Extraída: Quantificação do volume de madeira explorado em cada ano;
+
+-   Análise Anual do Volume de Extração: Análise descritiva dos volumes extraídos anualmente;
+
+-   Principais Espécies Exploradas: Identificação das cinco espécies mais extraídas no ano de maior volume de exploração e ao longo do período total;
+
+-   Distribuição do Volume de Extração por Estado: Avaliação do volume de madeira extraído em cada estado no ano de maior exploração, no total acumulado e análise do número de solicitações por estado.
+
+# Solicitações {orientation="columns"}
+
+## 
+
+![](images/clipboard-440675400.gif){fig-align="center" width="18cm"}
+
+# Explorado {orientation="columns"}
+
+## 
+
+![](images/clipboard-2711487850.png){fig-align="center" width="18cm"}
+
+## 
+
+Análise descritiva do volume (m³) anual explorado para toras ![](images/Captura%20de%20tela%202025-02-16%20223129.png){fig-align="center" width="18cm"}
+
+# Espécies {orientation="columns"}
+
+## 
+
+::: {.card .fill}
+<iframe src="images/top_5_especies.html" class="content-fullwidth" style="width:100%; height:500px; border:none;">
+
+</iframe>
+:::
+
+## 
+
+::: {.card .fill}
+<iframe src="images/top_5_especies_2021.html" class="content-fullwidth" style="width:100%; height:500px; border:none;">
+
+</iframe>
+:::
+
+# Unidade Federativa {orientation="columns"}
+
+## 
+
+Distribuição de frequência das solicitações por unidades federativas
+
+![](images/Captura%20de%20tela%202025-02-16%20223129.png){fig-align="center" width="18cm"}
+
+# Fontes {orientation="columns"}
+
+## 
+
+Os dados utilizados são provenientes do [Portal de Dados Abertos](https://dados.gov.br/dados/conjuntos-dados/volumes-explorados-if-100), disponibilizado pelo IBAMA, contendo informações sobre produtos e volumes explorados entre 2017 e 2024.
+
+## 
+
+A base de dados é estrturada com 21 colunas nomeadas da seguinte forma:
+
+-   Número de registro
+
+-   Número de autorização
+
+-   Data da emissão
+
+-   Data de validade da solicitação
+
+-   Unidade federativa
+
+-   Municipio
+
+-   Nome do detentor da solicitação
+
+-   CPF ou CNPJ do detentor
+
+-   Atividade
+
+-   Produto
+
+-   Número da árvore explorada
+
+-   Latitude da árvore
+
+-   Longitude da árvore
+
+-   Nome científico
+
+-   Nome popular
+
+-   Volume autorizado para exploração
+
+-   Volume explorado
+
+-   Data da exploração
+
+-   Situação da autorização
+
+-   Data da situação
+
+-   Última atualização do relatório
+
+## 
+
+As colunas utilizadas na análise foram:
+
+-   Número de registro: número referente a solicitação para a exploração
+
+-   Data de emissão: data de emissão da autorização
+
+-   Unidade federativa: estados de onde vieram as solicitações
+
+-   Municipio: municipio de cada solicitação
+
+-   Tipo de atividade: tipo de permissão para a exploração, ex: POA (Amazonia Legal) Pleno
+
+-   Produto: produto para o qual será destinado a exploração, ex: tora, mourão
+
+-   Nome cientifico: nome cientifico da espécie a ser explorada
+
+-   Volume autorizado: volume permitido para a exploração
+
+-   Volume explorado: volume explorado por solicitação
+
+-   Data da exploração - Situação: situação da solicitação para a exploração
