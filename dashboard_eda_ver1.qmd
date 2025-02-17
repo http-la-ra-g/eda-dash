@@ -58,7 +58,7 @@ Análise descritiva do volume (m³) anual explorado para toras ![](images/Captur
 
 Distribuição de frequência das solicitações por unidades federativas
 
-![](images/Captura%20de%20tela%202025-02-16%20223129.png){fig-align="center" width="18cm"}
+![](images/Captura de tela 2025-02-16 223155.png"){fig-align="center" width="18cm"}
 
 # Fontes {orientation="columns"}
 
